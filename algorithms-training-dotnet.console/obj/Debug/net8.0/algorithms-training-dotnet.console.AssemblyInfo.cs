@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("algorithms-training-dotnet.console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2412b5c35219248f765c9b74dc9ae9543e694082")]
 [assembly: System.Reflection.AssemblyProductAttribute("algorithms-training-dotnet.console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("algorithms-training-dotnet.console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
