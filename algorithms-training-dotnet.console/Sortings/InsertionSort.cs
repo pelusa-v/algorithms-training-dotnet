@@ -1,6 +1,4 @@
-﻿using algorithms_training_dotnet.console.Utils;
-
-namespace algorithms_training_dotnet.console.Sortings;
+﻿namespace algorithms_training_dotnet.console.Sortings;
 
 public class InsertionSort
 {
