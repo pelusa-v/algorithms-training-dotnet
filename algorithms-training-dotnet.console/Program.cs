@@ -13,7 +13,7 @@ var i = Excercises.LinealSearch(testArray2, 2);
 Console.WriteLine(i);
 
 // binary addition
-var a1 = new int[] { 1, 1 };  // 3
+var a1 = new int[] { 0, 1 };  // 3
 var b1 = new int[] { 0, 1 };  // 1
 var c = Excercises.BinaryAddition(a1, b1, a1.Length);
 ArrayUtils.ShowArrayContent(c);
